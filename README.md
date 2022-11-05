@@ -29,7 +29,7 @@
 
 ## 🧐 Sobre el proyecto <a name = "about"></a>
 
-Este proyecto trata de servir como guía a partir de la cual empezar los proyectos que se vayan a desarrollar para la GVA con la librería react.
+Este proyecto trata de servir como guía a partir de la cual empezar los proyectos que se vayan a desarrollar para la GVA con la librería react. También puede servir como guia este propio README para su modificación a lo largo del ciclo de desarrollo
 
 ## 🏁 Cómo empezar <a name = "getting_started"></a>
 
@@ -88,7 +88,7 @@ Herramientas necesarias para iniciar el proyecto:
 npx husky install
 ```
 
-### Installing
+### Instalación
 
 Una vez tenemos el entorno listo, iniciamos la instalación de las dependencias
 
@@ -129,5 +129,5 @@ npm run build
 - [Vite](https://vitejs.dev/) - Builder
 - [React](https://reactjs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
-- [TypeScript](https://www.typescriptlang.org/) - Lenguaje
-- [Tailwind](https://tailwindcss.com/) - Estilos
+- [TypeScript](https://www.typescriptlang.org/) - Language
+- [Tailwind](https://tailwindcss.com/) - Styles
