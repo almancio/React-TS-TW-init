@@ -4,6 +4,8 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
     "VisualStudioExptTeam.vscodeintellicode",
-    "vivaxy.vscode-conventional-commits"
+    "vivaxy.vscode-conventional-commits",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig"
   ]
 }
