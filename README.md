@@ -1,20 +1,15 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=181px height=75px src="https://www.gva.es/portal-gva61-theme/images/GVA/logo_gva.png" alt="Generalitat valenciana"></a>
-</p>
-
 <h3 align="center">Plantilla de nuevos evolutivos React</h3>
 
-<div align="center">
+<p align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 
-</div>
+</p>
 
 ---
 
-<p align="center"> Plantilla inicial para proyectos de la GVA con React
+<p align="center"> Plantilla inicial para proyectos con React
     <br> 
 </p>
 
@@ -30,7 +25,7 @@
 ## 🧐 Sobre el proyecto <a name = "about"></a>
 
 Este proyecto trata de servir como guía a partir de la cual empezar los
-proyectos que se vayan a desarrollar para la GVA con la librería react. También
+proyectos que se vayan a desarrollar con la librería react. También
 puede servir como guia este propio README para su modificación a lo largo del
 ciclo de desarrollo
 
